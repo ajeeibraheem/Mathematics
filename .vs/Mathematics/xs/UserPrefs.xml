@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{95256186-6BA8-4264-8F34-6901008675ED}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MathematicsTest/UnitTest1.cs" Line="43" Column="31" IsPinned="True" />
+      <File FileName="Mathematics/Program.cs" Line="23" Column="1" />
+      <File FileName="Mathematics/BodmasOperation.cs" Line="12" Column="1" />
+      <File FileName="Mathematics/Model/Enum/ExpressionOperator.cs" Line="13" Column="16" />
+      <File FileName="Mathematics/IBodmasOperationInterface.cs" Line="8" Column="53" />
+      <File FileName="BusinessEntities/ReadExpression.cs" Line="27" Column="1" />
+      <File FileName="BusinessEntities/OrderOfExecution.cs" Line="33" Column="1" />
+      <File FileName="BusinessEntities/Model/Node.cs" Line="6" Column="37" />
+      <File FileName="BusinessEntities/Model/NodeBinary.cs" Line="4" Column="18" />
+      <File FileName="BusinessEntities/Model/NodeNumber.cs" Line="4" Column="18" />
+      <File FileName="BusinessEntities/Model/NodeUnary.cs" Line="4" Column="18" />
+      <File FileName="BusinessEntities/IReadExpression.cs" Line="13" Column="26" />
+      <File FileName="BusinessEntities/IOrderOfExecution.cs" Line="8" Column="53" />
+      <File FileName="../../Library/Caches/VisualStudio/8.0/Symbols/moq/moq4/fc484fb85a28e8cd5d5c51c7e158df2ecc72621d/src/Moq/Mock`1.cs" Line="223" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mathematics" expanded="True" selected="True">
+            <Node name="BusinessEntities" expanded="True" />
+            <Node name="Mathematics" expanded="True" />
+            <Node name="MathematicsTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Mathematics" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/ajeeibraheem/Library/Caches/VisualStudio/8.0/Symbols/moq/moq4/fc484fb85a28e8cd5d5c51c7e158df2ecc72621d</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.ItemProperties.Mathematics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ajeeibraheem/Projects/Mathematics/Mathematics/Program.cs" relfile="Mathematics/Program.cs" line="23" column="1" />
+      <Breakpoint file="/Users/ajeeibraheem/Projects/Mathematics/MathematicsTest/MathematicsTest.cs" relfile="MathematicsTest/MathematicsTest.cs" line="25" column="1" />
+      <Breakpoint file="/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/OrderOfExecution.cs" relfile="BusinessEntities/OrderOfExecution.cs" line="33" column="1" />
+      <Breakpoint file="/Users/ajeeibraheem/Projects/Mathematics/MathematicsTest/MathematicsTest.cs" relfile="MathematicsTest/MathematicsTest.cs" line="28" column="1" />
+      <Breakpoint file="/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/ReadExpression.cs" relfile="BusinessEntities/ReadExpression.cs" line="27" column="1" />
+      <Breakpoint file="/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/OrderOfExecution.cs" relfile="BusinessEntities/OrderOfExecution.cs" line="22" column="1" />
+      <Breakpoint file="/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/ReadExpression.cs" relfile="BusinessEntities/ReadExpression.cs" line="199" column="1" />
+      <Breakpoint file="/Users/ajeeibraheem/Projects/Mathematics/MathematicsTest/MathematicsTest.cs" relfile="MathematicsTest/MathematicsTest.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

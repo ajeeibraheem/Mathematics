@@ -1,0 +1,11 @@
+/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/bin/Debug/net5.0/BusinessEntities.deps.json
+/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/bin/Debug/net5.0/BusinessEntities.dll
+/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/bin/Debug/net5.0/ref/BusinessEntities.dll
+/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/bin/Debug/net5.0/BusinessEntities.pdb
+/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/obj/Debug/net5.0/BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/obj/Debug/net5.0/BusinessEntities.AssemblyInfoInputs.cache
+/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/obj/Debug/net5.0/BusinessEntities.AssemblyInfo.cs
+/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/obj/Debug/net5.0/BusinessEntities.csproj.CoreCompileInputs.cache
+/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/obj/Debug/net5.0/BusinessEntities.dll
+/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/obj/Debug/net5.0/ref/BusinessEntities.dll
+/Users/ajeeibraheem/Projects/Mathematics/BusinessEntities/obj/Debug/net5.0/BusinessEntities.pdb
